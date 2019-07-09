@@ -83,8 +83,7 @@ Modify angular.json and add "src/robots.txt" and "src/sitemap.xml" in tha assets
               "src/favicon.ico",
               "src/assets",
               "src/robots.txt",
-              "src/sitemap.xml,
-              "src/manifest.webmanifest"
+              "src/sitemap.xml
             ],
 ```
 
