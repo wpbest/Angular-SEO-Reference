@@ -4,6 +4,8 @@ Angular SEO (Search Engine Optimisation)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e390dc4d-71a9-4cf3-9dea-02ff8bae045e/deploy-status)](https://app.netlify.com/sites/sad-clarke-31f3c6/deploys)
+
 ## Documentation
 
 [Node.js](https://nodejs.org/en/docs/)
